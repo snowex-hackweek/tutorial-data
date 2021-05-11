@@ -1,0 +1,19 @@
+Reference Granule: S1A_IW_SLC__1SDV_20201030T131820_20201030T131847_035026_04160F_47E1
+Secondary Granule: S1A_IW_SLC__1SDV_20201111T131820_20201111T131847_035201_041C32_04D2
+Baseline: -33.409
+UTCtime: 47901.858507
+Heading: 193.3819609
+Spacecraft height: 700785.7335999999
+Earth radius at nadir: 6369905.6529
+Range looks: 20
+Azimuth looks: 4
+INSAR phase filter:  adf
+Phase filter parameter: 0.6
+Resolution of output (m): 80
+Range bandpass filter: no
+Azimuth bandpass filter: no
+DEM source: GLO-30
+DEM resolution (m): 160
+Unwrapping type: mcf
+Unwrapping threshold: none
+Speckle filtering: off
