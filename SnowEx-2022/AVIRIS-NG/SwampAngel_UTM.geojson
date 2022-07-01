@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SwampAngel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32613" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Swamp Angel" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 261811.425717469159281, 4198850.833915035240352 ], [ 261469.404471692250809, 4198850.600453433580697 ], [ 261470.805241299443878, 4199084.295516246929765 ], [ 261809.791486261441605, 4199083.828593046404421 ], [ 261811.425717469159281, 4198850.833915035240352 ] ] ] ] } }
+]
+}
